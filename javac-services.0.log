@@ -1,0 +1,41 @@
+INFO	?	main	2017-02-17T21:26:30.586Z	org.javacs.Main#connectToNode	Connected to parent using socket on port 55282
+INFO	?	main	2017-02-17T21:26:30.928Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java]
+INFO	?	main	2017-02-17T21:26:30.960Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /var/folders/kx/bh8c2jt15yn8jnlq3s4mg05r0000gn/T/classpath7698546315377784348.txt
+INFO	?	main	2017-02-17T21:26:40.112Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2017-02-17T21:26:40.115Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	InitialIndex	2017-02-17T21:26:40.967Z	org.javacs.SymbolIndex$1#parseAll	Index /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java
+INFO	?	InitialIndex	2017-02-17T21:26:40.978Z	org.javacs.SymbolIndex$1#parseAll	Index /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java
+INFO	?	main	2017-02-17T21:27:33.165Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /var/folders/kx/bh8c2jt15yn8jnlq3s4mg05r0000gn/T/classpath24943311473532976.txt
+INFO	?	main	2017-02-17T21:27:38.287Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2017-02-17T21:27:38.288Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	main	2017-02-17T21:28:08.138Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java]
+INFO	?	main	2017-02-17T21:28:09.649Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:28:09.653Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /var/folders/kx/bh8c2jt15yn8jnlq3s4mg05r0000gn/T/classpath4496346346012104482.txt
+INFO	?	main	2017-02-17T21:28:14.145Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2017-02-17T21:28:14.146Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	main	2017-02-17T21:28:14.465Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /var/folders/kx/bh8c2jt15yn8jnlq3s4mg05r0000gn/T/classpath948393540570490837.txt
+INFO	?	main	2017-02-17T21:28:19.698Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2017-02-17T21:28:19.699Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	main	2017-02-17T21:28:49.427Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:34:38.306Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:35:49.551Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:38:37.551Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:39:11.708Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:39:16.986Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:40:09.041Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:40:16.448Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:40:34.804Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:47:57.445Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:48:24.092Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:55:14.404Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java]
+INFO	?	main	2017-02-17T21:55:52.052Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/WelcomeController.java]
+INFO	?	main	2017-02-17T21:55:52.054Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /var/folders/kx/bh8c2jt15yn8jnlq3s4mg05r0000gn/T/classpath2204468866601320782.txt
+INFO	?	main	2017-02-17T21:55:56.921Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2017-02-17T21:55:56.923Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	InitialIndex	2017-02-17T21:55:56.933Z	org.javacs.SymbolIndex$1#parseAll	Index /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java
+INFO	?	InitialIndex	2017-02-17T21:55:56.935Z	org.javacs.SymbolIndex$1#parseAll	Index /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java
+INFO	?	InitialIndex	2017-02-17T21:55:56.935Z	org.javacs.SymbolIndex$1#parseAll	Index /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/WelcomeController.java
+WARNING	?	main	2017-02-17T21:56:03.155Z	org.javacs.AutocompleteVisitor#visitSelect	No type for com
+INFO	?	main	2017-02-17T21:56:06.515Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/WelcomeController.java]
+INFO	?	main	2017-02-17T22:00:30.285Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/WelcomeController.java]
+INFO	?	main	2017-02-17T22:09:47.114Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Model/Person.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/Application.java, /Users/stevedavis/Git-Projects/spring-boot-101/src/main/java/com/sjd/WelcomeController.java]
