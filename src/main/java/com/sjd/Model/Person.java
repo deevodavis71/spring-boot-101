@@ -37,7 +37,7 @@ public class Person
     public void addChild (String childName, int age)
     {
         Person c = new Person();
-        c.setName(childName);
+        c.setName(childName.toUpperCase());
         c.setAge(age);
         
         children.add(c);
