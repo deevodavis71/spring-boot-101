@@ -8,7 +8,7 @@ public class Person
     private String name;
     private int age;
 
-    private List<Person> children = new ArrayList<Person> ();
+    private List<Person> children = new ArrayList<Person> (); 
 
     public Person ()
     {
